@@ -9,6 +9,7 @@ public class InstallationTests {
         MaintenanceRequestHelper.updateWorkOrders();
     }
     //ADD COMMENT
+    //COMMENT FROM SERVER
     
     @IsTest
     public static void testWarehouseSync(){
