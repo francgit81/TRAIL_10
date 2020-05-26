@@ -10,7 +10,9 @@ public class InstallationTests {
     }
     //ADD COMMENT
     //COMMENT FROM SERVER
-    
+
+
+    //COMMIT FROM IDE
     @IsTest
     public static void testWarehouseSync(){
         WarehouseCalloutService.runWarehouseEquipmentSync();
